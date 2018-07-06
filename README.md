@@ -3,8 +3,13 @@
 ## Team Members
 
 Yihe Wang(Scrum Master)
+
 Boao Huang
+
 Xiaowei Liu
+
 Yi Zhao 
+
 Tianyuan Deng
+
 Jiacong Ma
